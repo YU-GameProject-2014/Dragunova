@@ -1,0 +1,11 @@
+/tmp
+
+*.jpg
+*.png
+*.gif
+*.asta
+*.mp3
+*.ogg
+*.wave
+*.wav
+.DS_Store
