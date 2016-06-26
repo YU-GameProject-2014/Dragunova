@@ -47,7 +47,10 @@
   <ItemGroup>
      <Compile Include="Assets\Grid.cs" />
      <Compile Include="Assets\Group.cs" />
+     <Compile Include="Assets\Player.cs" />
      <Compile Include="Assets\Spawner.cs" />
+     <Compile Include="Assets\block.cs" />
+     <Compile Include="Assets\bullet.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
